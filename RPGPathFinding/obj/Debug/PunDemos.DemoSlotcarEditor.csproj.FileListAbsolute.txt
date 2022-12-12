@@ -1,0 +1,2 @@
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\PunDemos.DemoSlotcarEditor.csprojAssemblyReference.cache
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\PunDemos.DemoSlotcarEditor.csproj.CoreCompileInputs.cache

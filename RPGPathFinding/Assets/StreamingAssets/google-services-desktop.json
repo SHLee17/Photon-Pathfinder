@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461741917106",
+    "project_id": "ups2021-e7b1b",
+    "storage_bucket": "ups2021-e7b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461741917106:android:e389013b5799910c045aab",
+        "android_client_info": {
+          "package_name": "com.oline.RPGPathFinding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461741917106-rcq7j08od40db1c4njpaerijl7uqheht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oline.RPGPathFinding",
+            "certificate_hash": "0b6073760e0c574596368b992c1da3b18a0393b8"
+          }
+        },
+        {
+          "client_id": "461741917106-maqkcrrsib5pl6ip7rsuhnv99oqjpmjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQii7su1QB9NHVRpsXrIz25jQ2Ok78w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461741917106-maqkcrrsib5pl6ip7rsuhnv99oqjpmjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

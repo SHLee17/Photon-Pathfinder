@@ -1,0 +1,2 @@
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\PhotonUnityNetworking.Demos.csprojAssemblyReference.cache
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\PhotonUnityNetworking.Demos.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\azuri\OneDrive\RPG PathFinding\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

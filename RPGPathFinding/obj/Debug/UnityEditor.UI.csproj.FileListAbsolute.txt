@@ -1,0 +1,2 @@
+C:\Users\azuri\OneDrive\RPGPathFinding\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
+C:\Users\azuri\OneDrive\RPGPathFinding\obj\Debug\UnityEditor.UI.csproj.CoreCompileInputs.cache
